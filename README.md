@@ -20,7 +20,7 @@ _Last Updated_: [Tue Apr 23 2019]
 
 4. Bundle with - `yarn build`
 
-5. To test if it works correctly in another project you can use npm `npm install -S ../efflux-cons` Note the relative path
+5. To test if it works correctly in another project you can use npm `npm install -S ../efflux-icons` Note the relative path
 
 ## NPM equivalent
 
@@ -49,9 +49,9 @@ export default function Example() {
 
 | prop name | type   | description                                                                                   | required | default |
 | --------- | ------ | --------------------------------------------------------------------------------------------- | -------- | ------- |
-| name      | String | name of icon to be used as source                                                             | yes      | n/a     |
-| color     | String | color to be used in stroke and fill properties                                                | no       | black   |
-| size      | Number | size of icon in `px` this defines the bounding box of the icon relative to `width` & `height` | no       | 20px    |
+| `name`      | `String` | name of icon to be used as source                                                             | yes      | n/a     |
+| `color`     | `String` | color to be used in stroke and fill properties                                                | no       | `black`   |
+| `size`      | `Number` | size of icon in `px` this defines the bounding box of the icon relative to `width` & `height` | no       | `20px`    |
 
 # Icon Catalogue
 
