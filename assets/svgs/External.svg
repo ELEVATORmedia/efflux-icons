@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Exportable / External</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Exportable-/-External" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <path d="M6.73698637,3 L15.25,3 C16.2164983,3 17,3.78350169 17,4.75 L17,15.25 C17,16.2164983 16.2164983,17 15.25,17 L4.75,17 C3.78350169,17 3,16.2164983 3,15.25 L3,6.91305497" id="External-box" stroke="#232F50" transform="translate(10.000000, 10.000000) scale(-1, 1) translate(-10.000000, -10.000000) "></path>
+        <polyline id="Arrow" stroke="#232F50" points="14.8074947 2 18 2 18 5.2890595"></polyline>
+        <path d="M18,2 L10,10" id="Tail" stroke="#232F50"></path>
+    </g>
+</svg>

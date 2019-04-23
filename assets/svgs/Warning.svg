@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Exportable / Warning</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Exportable-/-Warning" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Dot" fill="#232F50" cx="10.5" cy="17.5" r="1.5"></circle>
+        <path d="M10.0325916,0.5 C10.024575,0.500042845 10.024575,0.500042845 10.0165612,0.500257039 C9.74056079,0.509110372 9.52399529,0.740029961 9.53284863,1.01603038 L9.91777557,13.0160304 C9.92642882,13.2857933 10.1476169,13.5 10.4175185,13.5 L10.5850715,13.5 C10.8550116,13.5 11.0762167,13.2857343 11.0848176,13.0159312 L11.4673596,1.01593116 C11.4675712,1.00796693 11.4675712,1.00796693 11.4676135,1 C11.4676135,0.723857625 11.2437559,0.5 10.9676135,0.5 L10.0325916,0.5 Z" id="Bang-Header" stroke="#232F50" fill="#232F50"></path>
+    </g>
+</svg>

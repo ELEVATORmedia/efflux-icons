@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Exportable / Location Pin</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Exportable-/-Location-Pin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M9.9592036,19 C6.17658938,13.9778962 4,10.4054125 4,8.14345491 C4,4.75051845 6.65050559,2 9.9592036,2 C13.2679016,2 16,4.75051845 16,8.14345491 C16,10.4054125 14.1765894,13.9778962 9.9592036,19 Z M10,11 C11.6568542,11 13,9.65685425 13,8 C13,6.34314575 11.6568542,5 10,5 C8.34314575,5 7,6.34314575 7,8 C7,9.65685425 8.34314575,11 10,11 Z" id="Location-Pin" stroke="#232F50"></path>
+    </g>
+</svg>

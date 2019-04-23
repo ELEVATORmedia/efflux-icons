@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Exportable / Overflow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Exportable-/-Overflow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Bottom-Oval" fill="#232F50" cx="9.5" cy="14.5" r="1.5"></circle>
+        <circle id="Middle-Oval" fill="#232F50" cx="9.5" cy="9.5" r="1.5"></circle>
+        <circle id="Top-Oval" fill="#232F50" cx="9.5" cy="4.5" r="1.5"></circle>
+    </g>
+</svg>

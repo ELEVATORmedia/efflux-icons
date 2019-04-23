@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Exportable / Arrow Down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Exportable-/-Arrow-Down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <polyline id="Arrow" stroke="#232F50" transform="translate(10.500000, 14.000000) rotate(-90.000000) translate(-10.500000, -14.000000) " points="12.5 18.5 8.5 14.1596785 12.5 9.5"></polyline>
+        <path d="M16.5,9.5 L4.5,9.5" id="Tail" stroke="#232F50" transform="translate(10.500000, 9.500000) rotate(-90.000000) translate(-10.500000, -9.500000) "></path>
+    </g>
+</svg>

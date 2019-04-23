@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Exportable / Phone</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Exportable-/-Phone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Phone-Body" stroke="#232F50" x="3.5" y="0.5" width="13" height="19" rx="2"></rect>
+        <circle id="Home-Button" fill="#232F50" cx="10" cy="17" r="1"></circle>
+        <path d="M9,3 L11,3" id="Head-Piece" stroke="#232F50" stroke-width="0.5" fill="#FFFFFF" stroke-linecap="round"></path>
+    </g>
+</svg>

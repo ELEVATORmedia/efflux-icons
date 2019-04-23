@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Exportable / Instagram</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Exportable-/-Instagram" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6,1.5 C3.51471863,1.5 1.5,3.51471863 1.5,6 L1.5,14 C1.5,16.4852814 3.51471863,18.5 6,18.5 L14,18.5 C16.4852814,18.5 18.5,16.4852814 18.5,14 L18.5,6 C18.5,3.51471863 16.4852814,1.5 14,1.5 L6,1.5 Z M10,15.5 C6.96243388,15.5 4.5,13.0375661 4.5,10 C4.5,6.96243388 6.96243388,4.5 10,4.5 C13.0375661,4.5 15.5,6.96243388 15.5,10 C15.5,13.0375661 13.0375661,15.5 10,15.5 Z M15,5.5 C14.1715729,5.5 13.5,4.82842712 13.5,4 C13.5,3.17157288 14.1715729,2.5 15,2.5 C15.8284271,2.5 16.5,3.17157288 16.5,4 C16.5,4.82842712 15.8284271,5.5 15,5.5 Z" id="Instagram-Shape" stroke="#232F50" fill="#232F50"></path>
+        <circle id="Oval" stroke="#232F50" fill="#232F50" cx="10" cy="10" r="3"></circle>
+    </g>
+</svg>

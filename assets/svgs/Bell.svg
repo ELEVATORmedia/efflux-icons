@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Exportable / Bell</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Exportable-/-Bell" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M10,14.5757185 C11.7976592,14.5757185 15.0125549,14.5757185 17.4722957,14.5757185 C18.8807142,14.5757185 15.2912521,14.5757185 15.2912521,7.78785925 C15.2912521,1 11.3059929,1 10,1 C8.69400708,1 4.94257973,1 4.94257973,7.78785925 C4.94257973,14.5757185 1.64210048,14.5757185 2.59231873,14.5757185 C4.49854095,14.5757185 8.08962075,14.5757185 10,14.5757185 Z" id="Bell-Outline" stroke="#232F50"></path>
+        <path d="M11,17 C11,16.4477153 10.5522847,16 10,16 C9.44771525,16 9,16.4477153 9,17" id="Half-Circle" stroke="#232F50" transform="translate(10.000000, 16.500000) scale(1, -1) translate(-10.000000, -16.500000) "></path>
+    </g>
+</svg>

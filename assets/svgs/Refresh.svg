@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="19px" viewBox="0 0 20 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Exportable / Refresh</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Exportable-/-Refresh" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <polyline id="Pointer" stroke="#232F50" points="14 7.22562168 17.0519966 9.13879158 18.4949084 6"></polyline>
+        <path d="M8.15312108,16.9396936 L9.5,17 C13.6421356,17 17,13.6421356 17,9.5 C17,5.35786438 13.6421356,2 9.5,2 C5.35786438,2 2,5.35786438 2,9.5" id="Tail" stroke="#232F50" transform="translate(9.500000, 9.500000) rotate(-103.000000) translate(-9.500000, -9.500000) "></path>
+    </g>
+</svg>

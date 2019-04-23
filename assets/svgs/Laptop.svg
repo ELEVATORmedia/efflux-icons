@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Exportable / Laptop</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Exportable-/-Laptop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M2.57108255,14.5 C2.03382663,14.5 1.53759771,14.7873364 1.27014905,15.2532925 L0.410441652,16.7510975 C0.3669639,16.8268456 0.344086152,16.9126611 0.344086152,17 C0.344086152,17.2761424 0.567943777,17.5 0.844086152,17.5 L19.1714801,17.5 C19.2673536,17.5 19.3612058,17.4724361 19.4418533,17.4205928 C19.6741403,17.2712698 19.7413959,16.9619138 19.5920729,16.7296268 L18.6016218,15.1888803 C18.3256234,14.7595369 17.8502461,14.5 17.3398434,14.5 L2.57108255,14.5 Z" id="Keyboard" stroke="#232F50"></path>
+        <rect id="Screen" stroke="#232F50" x="1.5" y="2.5" width="17" height="12" rx="2"></rect>
+    </g>
+</svg>

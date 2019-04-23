@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Exportable / Lock</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Exportable-/-Lock" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Lock-Body" stroke="#232F50" x="3.5" y="8.5" width="13" height="11" rx="2"></rect>
+        <path d="M6.5,8.5 C7.1137761,8.5 7.5842331,8.5 10,8.5 C12.4157652,8.5 12.8862232,8.5 13.4999987,8.5 C13.5,7.47635359 13.5,7.31166622 13.5,6 C13.5,4.06700338 11.9329966,2.5 10,2.5 C8.06700338,2.5 6.5,4.06700338 6.5,6 C6.5,7.31166622 6.5,7.47635359 6.5,8.5 Z" id="Curve" stroke="#232F50"></path>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Exportable / User Search</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Exportable-/-User-Search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M9.53512878,9 C9.19478857,9.58834673 9,10.2714257 9,11 C9,13.209139 10.790861,15 13,15 C13.3452996,15 13.6803801,14.956247 14,14.8739825 L14,18 L2,18 L2,12 C2,10.3431458 3.34314575,9 5,9 L9.53512878,9 L9.53512878,9 Z M8,7 C6.34314575,7 5,5.65685425 5,4 C5,2.34314575 6.34314575,1 8,1 C9.65685425,1 11,2.34314575 11,4 C11,5.65685425 9.65685425,7 8,7 Z" id="User-Outline" stroke="#232F50"></path>
+        <circle id="Looking-Glass" stroke="#232F50" cx="13.5" cy="10.5" r="2.5"></circle>
+        <path d="M15,12 L17.4850648,15.4936366" id="Handle" stroke="#232F50"></path>
+    </g>
+</svg>

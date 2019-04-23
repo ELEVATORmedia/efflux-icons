@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Exportable / Mail Pending</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Exportable-/-Mail-Pending" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Clock-Outline" stroke="#232F50" cx="14" cy="14" r="5"></circle>
+        <polyline id="Clock-Hands" stroke="#232F50" points="14 11 14 14.5854913 16.6010632 16.3432562"></polyline>
+        <path d="M9.51905828,14 L2.7,14 C1.76111593,14 1,13.2324881 1,12.2857143 L1,3.71428571 C1,2.76751186 1.76111593,2 2.7,2 L16.3,2 C17.2388841,2 18,2.76751186 18,3.71428571 L18,10.8602179" id="Mail-Body" stroke="#232F50"></path>
+        <polyline id="Mail-Crease" stroke="#232F50" points="1 3 9.56519433 8 18 3"></polyline>
+    </g>
+</svg>

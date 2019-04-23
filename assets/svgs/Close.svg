@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Exportable / Close</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Exportable-/-Close" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <path d="M3,3 L17,17" id="Left-Diagonal" stroke="#232F50"></path>
+        <path d="M3,3 L17,17" id="Right-Diagonal" stroke="#232F50" transform="translate(10.000000, 10.000000) scale(-1, 1) translate(-10.000000, -10.000000) "></path>
+    </g>
+</svg>
