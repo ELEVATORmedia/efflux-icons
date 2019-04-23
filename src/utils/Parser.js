@@ -104,4 +104,4 @@ const getAvailableIconNames = () => {
     return iconNames;
 };
 
-export { buildPaths, getAvailableIconNames, getIconAttrs };
+export { buildPaths, getAvailableIconNames, getIconAttrs, reColorIcon };
