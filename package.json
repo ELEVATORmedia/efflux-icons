@@ -12,7 +12,7 @@
     "prepublish": "npm run clean && npm run test && npm run build",
     "start": "webpack-dev-server --config examples/webpack.config.live.babel.js",
     "test": "npm run lint && npm run coverage",
-    "postinstall": "npm run clean && npm run test && npm run build"
+    "postinstall": "npm run clean && npm run build"
   },
   "devDependencies": {
     "prettier": "^1.15.3",
