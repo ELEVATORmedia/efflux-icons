@@ -2,7 +2,7 @@
   "name": "efflux-icons",
   "version": "1.0.0",
   "description": "Efflux Icon assets available as a react component",
-  "main": "./dist/index.js",
+  "main": "./src/index.js",
   "scripts": {
     "build": "webpack --config webpack.config.babel.js",
     "build-examples": "webpack --config examples/webpack.config.babel.js --progress",
