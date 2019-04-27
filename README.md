@@ -2,7 +2,7 @@
 
 ---
 
-_Last Updated_: [Tue Apr 23 2019]
+_Icon Set Last Updated_: [Tue Apr 23 2019]
 
 -   Bundled with [Webpack](https://webpack.js.org/)
 -   Developed with Hot Module Replacement [(HMR)](https://webpack.js.org/concepts/hot-module-replacement/)
@@ -92,3 +92,10 @@ The following Icons are available within this icon library. These Icons are orde
 | ![Vimeo](assets/svgs/Vimeo.svg)             | `Vimeo`        |
 | ![Youtube](assets/svgs/Youtube.svg)         | `Youtube`      |
 | ![Warning](assets/svgs/Warning.svg)         | `Warning`      |
+
+
+# Development Roadmap
+This project is currently in pre-release. When properly tested the following tasks will be completed:
+- [ ] Reset `package.json` contents to proper npm module state for realease on npm registry
+- [ ] Release on npm as module
+- [ ] Create official release as v1.0.0`
