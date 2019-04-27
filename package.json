@@ -1,6 +1,6 @@
 {
   "name": "efflux-icons",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Efflux Icon assets available as a react component",
   "main": "./src/index.js",
   "scripts": {
@@ -17,14 +17,14 @@
   "dependencies": {
     "webpack": "^4.9.1",
     "webpack-cli": "^3.1.2",
-    "webpack-dev-server": "^3.1.4"
-  },
-  "devDependencies": {
-    "prettier": "^1.15.3",
+    "webpack-dev-server": "^3.1.4",
     "@babel/core": "^7.1.2",
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
-    "@babel/register": "^7.0.0",
+    "@babel/register": "^7.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.15.3",
     "babel-eslint": "^10.0.1",
     "babel-jest": "^23.6.0",
     "babel-loader": "^8.0.4",
