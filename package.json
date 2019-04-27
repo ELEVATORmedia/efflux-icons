@@ -27,7 +27,9 @@
     "babel-jest": "^23.6.0",
     "babel-loader": "^8.0.4",
     "chai": "^4.1.2",
-    "css-loader": "^1.0.1"
+    "css-loader": "^1.0.1",
+    "sass-loader": "^7.0.1",
+    "style-loader": "^0.23.1"
   },
   "devDependencies": {
     "prettier": "^1.15.3",
@@ -43,9 +45,7 @@
     "react-dom": "^16.6.0",
     "react-hot-loader": "next",
     "react-test-renderer": "^16.0.0",
-    "regenerator-runtime": "^0.12.1",
-    "sass-loader": "^7.0.1",
-    "style-loader": "^0.23.1"
+    "regenerator-runtime": "^0.12.1"
   },
   "peerDependencies": {
     "react": ">= 16.3.0",
