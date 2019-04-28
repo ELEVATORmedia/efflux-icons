@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icon component renders blue icon at 25px without crashing 1`] = `
+<svg
+  height={25}
+  viewBox="0 0 1024 1024"
+  width={25}
+>
+  <path
+    d="M669.355 998.4l252.245-0c42.415 0 76.8-34.385 76.8-76.8v-505.352c0-24.886-12.058-48.229-32.352-62.631l-454.048-322.225-454.047 322.225c-20.294 14.402-32.352 37.745-32.352 62.631l-0.001 505.352c0 42.416 34.385 76.8 76.8 76.8h230.4v-241.322c0-92.937 75.34-168.278 168.278-168.278s168.278 75.34 168.278 168.278v241.322z"
+    style={
+      Object {
+        "fill": "none",
+        "stroke": "Blue",
+        "strokeLinecap": "butt",
+        "strokeLinejoin": "miter",
+        "strokeMiterlimit": "4",
+        "strokeWidth": 51.2,
+      }
+    }
+  />
+</svg>
+`;
+
+exports[`Icon component renders blue icon crashing 1`] = `
+<svg
+  height={20}
+  viewBox="0 0 1024 1024"
+  width={20}
+>
+  <path
+    d="M669.355 998.4l252.245-0c42.415 0 76.8-34.385 76.8-76.8v-505.352c0-24.886-12.058-48.229-32.352-62.631l-454.048-322.225-454.047 322.225c-20.294 14.402-32.352 37.745-32.352 62.631l-0.001 505.352c0 42.416 34.385 76.8 76.8 76.8h230.4v-241.322c0-92.937 75.34-168.278 168.278-168.278s168.278 75.34 168.278 168.278v241.322z"
+    style={
+      Object {
+        "fill": "none",
+        "stroke": "Blue",
+        "strokeLinecap": "butt",
+        "strokeLinejoin": "miter",
+        "strokeMiterlimit": "4",
+        "strokeWidth": 51.2,
+      }
+    }
+  />
+</svg>
+`;
+
+exports[`Icon component renders default without crashing 1`] = `
+<svg
+  height={20}
+  viewBox="0 0 1024 1024"
+  width={20}
+>
+  <path
+    d="M669.355 998.4l252.245-0c42.415 0 76.8-34.385 76.8-76.8v-505.352c0-24.886-12.058-48.229-32.352-62.631l-454.048-322.225-454.047 322.225c-20.294 14.402-32.352 37.745-32.352 62.631l-0.001 505.352c0 42.416 34.385 76.8 76.8 76.8h230.4v-241.322c0-92.937 75.34-168.278 168.278-168.278s168.278 75.34 168.278 168.278v241.322z"
+    style={
+      Object {
+        "fill": "none",
+        "stroke": "black",
+        "strokeLinecap": "butt",
+        "strokeLinejoin": "miter",
+        "strokeMiterlimit": "4",
+        "strokeWidth": 51.2,
+      }
+    }
+  />
+</svg>
+`;
