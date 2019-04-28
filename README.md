@@ -20,7 +20,12 @@ _Icon Set Last Updated_: [Tue Apr 23 2019]
 
 4. Bundle with - `yarn build`
 
-5. To test if it works correctly in another project you can use npm `npm install -S ../efflux-icons` Note the relative path
+5. To test if it works correctly in another project you can use yarn to sym-link the development version of `efflux-icons` on your pc to another existing project on your local machine:
+
+    1. `yarn link` inside `efflux-icons` root folder.
+    2. `yarn link efflux-icons` inside of the project folder you want to use `efflux-icons` in.
+
+Note: Making changes to the `efflux-icons` projects will require rebuilding the `bundle.js` via `yarn build` in order for new changes to reflect in the linked project.
 
 ## NPM equivalent
 
@@ -47,11 +52,11 @@ export default function Example() {
 
 # Props
 
-| prop name | type   | description                                                                                   | required | default |
-| --------- | ------ | --------------------------------------------------------------------------------------------- | -------- | ------- |
-| `name`      | `String` | name of icon to be used as source                                                             | yes      | n/a     |
-| `color`     | `String` | color to be used in stroke and fill properties                                                | no       | `black`   |
-| `size`      | `Number` | size of icon in `px` this defines the bounding box of the icon relative to `width` & `height` | no       | `20px`    |
+| prop name | type     | description                                                                                   | required | default |
+| --------- | -------- | --------------------------------------------------------------------------------------------- | -------- | ------- |
+| `name`    | `String` | name of icon to be used as source                                                             | yes      | n/a     |
+| `color`   | `String` | color to be used in stroke and fill properties                                                | no       | `black` |
+| `size`    | `Number` | size of icon in `px` this defines the bounding box of the icon relative to `width` & `height` | no       | `20px`  |
 
 # Icon Catalogue
 
@@ -93,9 +98,10 @@ The following Icons are available within this icon library. These Icons are orde
 | ![Youtube](assets/svgs/Youtube.svg)         | `Youtube`      |
 | ![Warning](assets/svgs/Warning.svg)         | `Warning`      |
 
-
 # Development Roadmap
+
 This project is currently in pre-release. When properly tested the following tasks will be completed:
-- [ ] Reset `package.json` contents to proper npm module state for realease on npm registry
-- [ ] Release on npm as module
-- [ ] Create official release as v1.0.0`
+
+-   [ ] Reset `package.json` contents to proper npm module state for realease on npm registry
+-   [ ] Release on npm as module
+-   [ ] Create official release as v1.0.0`
