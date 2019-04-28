@@ -100,8 +100,6 @@ The following Icons are available within this icon library. These Icons are orde
 
 # Development Roadmap
 
-This project is currently in pre-release. When properly tested the following tasks will be completed:
+This project is still in development. When properly tested the following tasks will be completed:
 
--   [ ] Reset `package.json` contents to proper npm module state for realease on npm registry
--   [ ] Release on npm as module
--   [ ] Create official release as v1.0.0`
+-   [ ] Add Jest Tests for components
