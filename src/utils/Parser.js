@@ -9,15 +9,20 @@ import iconData from '../../assets/effluxPaths';
  * @returns {Object[]} modifiedPathStyles - recolored path styles
  */
 const reColorIcon = (orgPathStyles, colorModifier) => {
-    orgPathStyles.forEach((pathStyle) => {
-        if (pathStyle.hasOwnProperty('fill') && pathStyle.fill !== 'none') {
-            pathStyle.fill = colorModifier;
+    let reColoredPathStyles = [];
+    orgPathStyles.map((pathStyle) => {
+        let writableClone = Object.assign({}, pathStyle);
+        if (writableClone.hasOwnProperty('fill')) {
+            if (writableClone.fill !== 'none') {
+                writableClone.fill = colorModifier;
+            }
         }
 
-        pathStyle.stroke = colorModifier;
+        writableClone.stroke = colorModifier;
+        reColoredPathStyles.push(writableClone);
     });
 
-    return orgPathStyles;
+    return reColoredPathStyles;
 };
 
 /**
