@@ -21,9 +21,7 @@
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
     "@babel/register": "^7.0.0",
-    "clean-webpack-plugin": "^0.1.16"
-  },
-  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.16",
     "prettier": "^1.15.3",
     "babel-eslint": "^10.0.1",
     "babel-jest": "^23.6.0",
@@ -38,8 +36,6 @@
     "node-sass": "^4.7.2",
     "prop-types": "^15.6.0",
     "react-addons-test-utils": "^15.5.1",
-    "react": "^16.6.0",
-    "react-dom": "^16.6.0",
     "react-hot-loader": "next",
     "react-test-renderer": "^16.0.0",
     "regenerator-runtime": "^0.12.1",
@@ -47,6 +43,7 @@
     "style-loader": "^0.23.1",
     "webpack-dev-server": "^3.1.4"
   },
+
   "peerDependencies": {
     "react": ">= 16.3.0",
     "react-dom": ">= 16.3.0"
