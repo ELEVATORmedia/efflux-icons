@@ -2,19 +2,21 @@
   "name": "efflux-icons",
   "version": "0.1.0",
   "description": "Efflux Icon assets available as a react component",
+  "author": {
+    "name": "jmeza081"
+  },
+  "license": "MIT",
   "main": "./dist/index.js",
   "scripts": {
     "build": "webpack --config ./webpack.config.babel.js",
     "build-examples": "webpack --config examples/webpack.config.babel.js --progress",
     "clean": "rm -rf dist coverage",
-    "coverage": "jest --coverage",
+    "test": "jest --coverage",
     "lint": "eslint ./src",
     "prepublish": "npm run clean && npm run test && npm run build",
-    "start": "webpack-dev-server --config examples/webpack.config.live.babel.js",
-    "test": "npm run lint && npm run coverage",
-    "postinstall": "yarn build"
+    "start": "webpack-dev-server --config examples/webpack.config.live.babel.js"
   },
-  "dependencies": {
+  "devDependencies": {
     "webpack": "^4.9.1",
     "webpack-cli": "^3.1.2",
     "@babel/core": "^7.1.2",
@@ -22,9 +24,7 @@
     "@babel/preset-react": "^7.0.0",
     "@babel/register": "^7.0.0",
     "clean-webpack-plugin": "^0.1.16",
-    "babel-loader": "^8.0.4"
-  },
-  "devDependencies": {
+    "babel-loader": "^8.0.4",
     "prettier": "^1.15.3",
     "babel-eslint": "^10.0.1",
     "babel-jest": "^23.6.0",
