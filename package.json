@@ -22,7 +22,7 @@
     "@babel/preset-react": "^7.0.0",
     "@babel/register": "^7.0.0",
     "clean-webpack-plugin": "^0.1.16",
-    "babel-loader": "^8.0.4",
+    "babel-loader": "^8.0.4"
   },
   "devDependencies": {
     "prettier": "^1.15.3",
