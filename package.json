@@ -2,7 +2,7 @@
   "name": "efflux-icons",
   "version": "0.1.0",
   "description": "Efflux Icon assets available as a react component",
-  "main": "./src/index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "build": "webpack --config webpack.config.babel.js",
     "build-examples": "webpack --config examples/webpack.config.babel.js --progress",
@@ -15,24 +15,21 @@
     "postinstall": "npm run clean && npm run build"
   },
   "dependencies": {
-    "webpack": "4.30.0",
-    "webpack-cli": "^3.1.2",
-    "webpack-dev-server": "^3.1.4",
+    "webpack": "^4.9.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "devDependencies": {
+    "prettier": "^1.15.3",
     "@babel/core": "^7.1.2",
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
     "@babel/register": "^7.0.0",
-    "clean-webpack-plugin": "^0.1.16",
     "babel-eslint": "^10.0.1",
     "babel-jest": "^23.6.0",
     "babel-loader": "^8.0.4",
     "chai": "^4.1.2",
+    "clean-webpack-plugin": "^0.1.16",
     "css-loader": "^1.0.1",
-    "sass-loader": "^7.0.1",
-    "style-loader": "^0.23.1"
-  },
-  "devDependencies": {
-    "prettier": "^1.15.3",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
     "eslint": "^5.8.0",
@@ -45,7 +42,10 @@
     "react-dom": "^16.6.0",
     "react-hot-loader": "next",
     "react-test-renderer": "^16.0.0",
-    "regenerator-runtime": "^0.12.1"
+    "regenerator-runtime": "^0.12.1",
+    "sass-loader": "^7.0.1",
+    "style-loader": "^0.23.1",
+    "webpack-dev-server": "^3.1.4"
   },
   "peerDependencies": {
     "react": ">= 16.3.0",
