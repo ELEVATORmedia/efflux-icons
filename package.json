@@ -5,6 +5,7 @@
   "author": {
     "name": "jmeza081"
   },
+  "repository": "github:ElevatorMedia/efflux-icons",
   "license": "MIT",
   "main": "./dist/index.js",
   "scripts": {
